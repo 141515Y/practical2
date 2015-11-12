@@ -4,7 +4,6 @@ package demo;
  * Created by 141515Y on 10/29/2015.
  */
 public class BookDetails {
-
     private String bookId = null;
     private String title = null;
     private String firstName = null;
@@ -87,5 +86,3 @@ public class BookDetails {
         this.inventory = inventory;
     }
 }
-
-

@@ -7,6 +7,12 @@
         <element id="directory" name="classes">
           <element id="module-output" name="practical2" />
         </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="EclipseLink JPA 2.1. " />
+          <element id="library" level="project" name="javax.persistence_2.1.0.v201304241213" />
+          <element id="library" level="project" name="JPA 2.0" />
+          <element id="library" level="project" name="mysql-connector-java-5.1.36-bin" />
+        </element>
       </element>
     </root>
   </artifact>
